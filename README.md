@@ -1,2 +1,7 @@
 # deepinders05.github.io
-This is my first GitHub website
+Activity report of Student Induction Program 2024 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
