@@ -17,7 +17,7 @@
     <p>
         I am a studious type of student and my Intrests are usually in coding, that's why
         I chose 
-        <b>Computer Science</b> branch to pursue my Intrest seeking for a bright Future
+        <b>Computer Science</b> branch to pursue my Intrest seeking for a bright Future.
     </p>
 </body>
 </html>
