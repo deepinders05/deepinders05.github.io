@@ -1,6 +1,4 @@
 # deepinders05.github.io
-
-
 <!DOCTYPEhtml>
 <head>
 </head>
