@@ -1,7 +1,7 @@
 # deepinders05.github.io
 
 
-<!DOCTYPE html>
+<!DOCTYPEhtml>
 <head>
 </head>
 <body>
